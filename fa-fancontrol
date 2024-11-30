@@ -4,4 +4,3 @@ START=21
 start() {
     /usr/bin/fa-fancontrol.sh &
 }
-
